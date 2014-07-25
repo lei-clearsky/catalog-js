@@ -1,0 +1,39 @@
+{
+	"academic-programs":[
+			{
+				"program-name":"Allied Health Studies",
+				"program-degree": "BA, BS",
+				"program-link":"http://www.cse.edu/academics/academic-programs/health-wellness/allied-health-studies/",
+				"program-description":"With a basis in the College's liberal arts tradition, the Allied Health program gives students an overview of issues in health and health care delivery and provides specific training in management and leadership. Students learn to be ethical members of the health care profession dedicated to assessing and addressing the needs of society and improving health and wellness for individuals, groups and populations.",
+				"program-offerings":[{"degree-name":"B.A. in Allied Health Studies",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/allied-health-studies.dot#ba"},
+										{"degree-name":"Minor in Personal Fitness Training",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/allied-health-studies.dot#minor"}]
+			},
+			{
+				"program-name":"American Studies",
+				"program-degree": "BA",
+				"program-link":"http://www.cse.edu/academics/academic-programs/culture-humanities/american-studies/",
+				"program-description":"An inherently multidisciplinary field, American Studies researches our national experience through history, literature, politics, and cultural identity to better understand character, institutions and collective challenges. The program has two concentrations: Culture and Humanities looks to the cultural and social products of the American experience; Human and Social Development investigates manifestations of the collective American ethos.",
+				"program-offerings":[{"degree-name":"B.A in American Studies",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/american-studies.dot#ba"},
+										{"degree-name":"Minor in American Studies",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/american-studies.dot#minor"}]
+			},
+			{
+				"program-name":"Art",
+				"program-degree": "BA",
+				"program-link":"http://www.cse.edu/academics/academic-programs/culture-humanities/art/",
+				"program-description":"The Art program is designed to develop creativity and artistic skill in each student. Our classes are geared to train students in artistic innovation, practical studio arts, and creative technologies – all of which are essential for today's imaginative world. With an available minor in graphic arts and access to the Therese Maloney Art Gallery on campus, both inspiration and practicality are in strong supply.",
+				"program-offerings":[{"degree-name":"B.A. in Art (General Studio Art)",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/art.dot#studioart"},
+										{"degree-name":"B.A. in Art (Graduate School Preparation)",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/art.dot#gradprep"},
+										{"degree-name":"Minor in Art (General Studio Art)",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/art.dot#studioartminor"},
+										{"degree-name":"Minor in Graphic Design",
+										"degree-link":"http://www.cse.edu/academics/catalog/academic-programs/art.dot#graphicdesignminor"}]
+			}
+		]
+}
+
